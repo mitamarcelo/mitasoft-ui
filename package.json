@@ -1,0 +1,11 @@
+{
+  "name": "mitasoft-ui",
+  "version": "1.0.0",
+  "description": "React ui components",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Mita",
+  "license": "MIT"
+}
