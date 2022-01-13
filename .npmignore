@@ -1,4 +1,3 @@
-dist
 .babelrc
 .storybook
 .gitignore
@@ -6,3 +5,9 @@ dist
 rollup.config.js
 tsconfig.json
 .vscode
+.gitignore
+.eslintrc.js
+package.json
+package-lock.json
+README.md
+node_modules
